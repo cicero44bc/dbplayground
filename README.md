@@ -1,2 +1,2 @@
 # dbplayground
-PHP PDO SQLlite Playground
+PHP PDO SQLite Playground
